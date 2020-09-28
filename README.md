@@ -4,7 +4,7 @@ Hallo, Anjim Ni Update Lagi Script Spam Sms New
 # Mastah Ilusi
 <==============>
 # Penginstalan
-
+~~~
 pkg update && pkg upgrade
 pkg install git
 pkg install python2
